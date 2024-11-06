@@ -1,0 +1,23 @@
+{
+  "name": "smart-smoothie-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HullKSmash/smart-smoothie-api.git"
+  },
+  "author": "Katie Hull",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HullKSmash/smart-smoothie-api/issues"
+  },
+  "homepage": "https://github.com/HullKSmash/smart-smoothie-api#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1"
+  }
+}
